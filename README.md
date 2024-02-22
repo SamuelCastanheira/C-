@@ -1,0 +1,1 @@
+Diretório destinado aos estudos de C++, direcionado pelo material "The C++ Programming Language" de Bjarne Stroustrup
