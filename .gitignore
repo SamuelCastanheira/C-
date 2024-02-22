@@ -1,0 +1,5 @@
+#ignorar pasta de output gerada pelo vscode
+output/
+
+#ignorar pasta vscode
+ .vscode/
