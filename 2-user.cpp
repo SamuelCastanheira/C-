@@ -1,5 +1,4 @@
 #include "1-vector.h"
-#include "3-vector.cpp"
 #include <iostream>
 #include <cmath>
 using namespace std;

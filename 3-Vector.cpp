@@ -1,7 +1,6 @@
 // Vector.cpp:
-#include "1-vector.h" // get the interface
-Vector::Vector(int s)
-    :elem{new double[s]}, sz{s}
+#include "1-vector.h"
+Vector::Vector(int s):elem{new double[s]}, sz{s}
 {
 }
 
